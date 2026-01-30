@@ -1,11 +1,5 @@
 streamlit
 pandas
 numpy
-matplotlib
 scikit-learn
 joblib
-seaborn
-requests
-json
-math
-xgboost
